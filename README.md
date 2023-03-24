@@ -30,7 +30,7 @@ I am a psychologist by degree and software developer by love (and a little bit o
 
 ### Feel free to connect with me 😄:
 
- 
+* <a href="https://www.instagram.com/codingmabi/" target="_blank">Instagram</a>
 * <a href="mailto:mapradosecco@gmail.com" target="_blank">Email</a>
 * <a href="https://www.linkedin.com/in/maria-beatriz-prado-secco/" target="_blank">Linkedin</a>
 * <a href="https://www.discordapp.com/users/994366323759001642/" target="_blank">Discord</a>
