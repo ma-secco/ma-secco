@@ -26,7 +26,6 @@ I am a psychologist by degree and software developer by love (and a little bit o
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />  <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-secco&layout=compact)](https://github.com/ma-secco/github-readme-stats)
 
 
 ### Feel free to connect with me 😄:
